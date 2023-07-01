@@ -1,0 +1,68 @@
+
+pared 02,00
+pared 03,00
+pared 04,00
+
+pared 02,01
+pared 02,02
+pared 02,03
+
+pared 00,03
+pared 01,03
+
+pared 00,04
+pared 00,05
+
+pared 01,05
+pared 02,05
+pared 03,05
+
+pared 03,06
+pared 03,07
+
+pared 04,07
+pared 05,07
+
+pared 05,04
+pared 05,05
+pared 05,06
+
+pared 06,04
+pared 07,04
+
+pared 07,02
+pared 07,03
+
+pared 04,02
+pared 05,02
+pared 06,02
+
+pared 04,01
+
+suelo 03,01
+suelo 03,02
+suelo 03,03
+suelo 03,04
+
+suelo 01,04
+suelo 02,04
+
+suelo 04,03
+suelo 04,04
+suelo 04,05
+suelo 04,06
+
+suelo 05,03
+suelo 06,03
+
+objetivo 03,01
+objetivo 01,04
+objetivo 06,03
+objetivo 04,06
+
+caja 03,03
+caja 05,03
+caja 04,05
+caja 03,04
+
+jugador 04,04
