@@ -1,6 +1,6 @@
-# ACE1_Practica_2
+# ACE1_Proyecto_2
 
-**Práctica 2 del Laboratorio de Arquitectura de Computadores y Ensambladores 1**
+**Proyecto 2 del Laboratorio de Arquitectura de Computadores y Ensambladores 1**
 
 - Kevin Ernesto García Hernández
 - 202113553
